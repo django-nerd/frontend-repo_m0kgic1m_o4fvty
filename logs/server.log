@@ -7,5 +7,5 @@
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.5.36:3000/
-8:22:30 AM [vite] ✨ new dependencies optimized: @splinetool/react-spline, lucide-react
-8:22:30 AM [vite] ✨ optimized dependencies changed. reloading
+8:42:42 AM [vite] ✨ new dependencies optimized: framer-motion
+8:42:42 AM [vite] ✨ optimized dependencies changed. reloading
